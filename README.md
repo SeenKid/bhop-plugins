@@ -45,6 +45,8 @@ strafe_trainer.smx
 
 SuppressViewpunch.smx
 
+shavit-discord.smx
+
 ---------
 
 # Scripts
