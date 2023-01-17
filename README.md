@@ -1,6 +1,8 @@
 # bhop-plugins
 A public repository for the most usefull plugins i could find
 
+WARNING : YOU MAY NEED SOME DEPENDENCIES (like dhooks, Discord_api, SMJansson and others) TO MAKE SOME PLUGINS WORK
+
 
 # Plugins
 Name
